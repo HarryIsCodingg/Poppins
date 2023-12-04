@@ -1,0 +1,19 @@
+.right-column {
+    gap: 26px;
+    align-items: center;
+    padding-right: 12px;
+}
+
+.list-space-button {
+    display: flex;
+    padding: 12px;
+    border-radius: 8px;
+    align-items: center;
+}
+
+.border-gradient-purple {
+    border-image-slice: 1;
+    border-width: 3px;
+    border-style: solid;
+    border-image-source: linear-gradient(to left, #743ad5, #d53a9d);
+}

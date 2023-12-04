@@ -1,0 +1,16 @@
+.nav-bar {
+    justify-content: space-between;
+    border-bottom: 1px solid gainsboro;
+    padding: 8px;
+}
+
+.nav-bar-column-1 {
+    height: 50px;
+    width: 50px;
+}
+
+.logo {
+    height: 54px;
+    width: 240px;
+}
+

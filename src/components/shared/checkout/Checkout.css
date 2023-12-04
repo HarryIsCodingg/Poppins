@@ -1,0 +1,52 @@
+
+.checkout-container {
+    padding: 28px;
+    border-radius: 28px;
+    border: 1px solid gainsboro;
+}
+
+.pricing-details {
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.booking-date {
+    border-radius: 12px;
+    border: 1px solid gainsboro;
+}
+
+.booking-date-row-1 {
+    display: flex;
+    border-bottom: 1px solid gainsboro;
+    justify-content: space-between;
+}
+
+.booking-date-row-1 div {
+    flex: 1;
+    padding-bottom: 12px;
+}
+
+.booking-date-row-1 > div {
+    padding-left: 12px;
+}
+
+.booking-date-row-1 > div:nth-child(2) {
+    border-left: 1px solid gainsboro;
+}
+
+.checkout-button {
+    border: none;
+    width: 100%;
+    margin-top: 12px;
+    padding: 12px;
+    border-radius: 12px;
+    color: white;
+    background: linear-gradient(90deg, #8E1EE6 0%, #773098 50%, #7A04D7 100%);
+}
+
+.pricing-details-column-1  {
+    margin-top: 12px;
+}
+

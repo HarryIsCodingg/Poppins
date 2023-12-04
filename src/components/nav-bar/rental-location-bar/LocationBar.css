@@ -1,0 +1,15 @@
+
+.vertical-line {
+    border-left: 1px solid gainsboro;
+    height: 20px;
+    margin-left: 12px;
+    margin-right: 10px;
+}
+
+.search-container {
+    align-items: center;
+    padding: 8px 8px 8px 16px;
+    border-radius: 16px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0 2px 8px 0;;
+    border: 1px solid gainsboro;
+}
