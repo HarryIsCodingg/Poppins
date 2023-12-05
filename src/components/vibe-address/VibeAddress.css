@@ -6,3 +6,9 @@
 .row-2 {
     justify-content: space-between;
 }
+
+@media only screen and (max-width: 480px) {
+    .share {
+        display: none;
+    }
+}

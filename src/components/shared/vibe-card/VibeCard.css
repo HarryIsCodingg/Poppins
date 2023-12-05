@@ -29,3 +29,12 @@
 .card-description {
     gap: 8px;
 }
+
+@media only screen and (max-width: 480px) {
+    .card-image {
+        width: 360px;
+    }
+    .favorite {
+        right: 100px;
+    }
+}

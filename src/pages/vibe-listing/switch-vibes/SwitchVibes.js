@@ -11,7 +11,6 @@ const SwitchVibes = ({vibe}) => {
 
     const switchVibe = () => {
         setVibeIndex((vibeIndex+1) % vibe.vibes.length);
-
     }
 
     return (

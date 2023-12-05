@@ -30,3 +30,10 @@
     color: white;
     background: linear-gradient(90deg, #8E1EE6 0%, #773098 50%, #7A04D7 100%);
 }
+
+@media only screen and (max-width: 480px) {
+    .checkout-page {
+        padding: 8px;
+        flex-direction: column;
+    }
+}

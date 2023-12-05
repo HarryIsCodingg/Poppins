@@ -14,3 +14,9 @@
     border-top-left-radius: 12px;
     border-top-right-radius: 12px;
 }
+
+@media only screen and (max-width: 480px) {
+    .confirmation-image {
+        width: 100%;
+    }
+}

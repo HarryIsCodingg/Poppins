@@ -4,7 +4,7 @@ import PaymentMenu from "../../components/payment-menu/PaymentMenu";
 
 const Confirmation = () => {
     return (
-        <div className='confirmation-page flex'>
+        <div className='confirmation-page'>
             <div className='success-container align-center'>
                 <h1>Payment</h1>
                 <img src={confirmationImage} alt='confirmation' className='success-image'/>

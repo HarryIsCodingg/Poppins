@@ -1,5 +1,6 @@
 .confirmation-page {
     padding: 56px;
+    display: flex;
 }
 
 .success-image {
@@ -10,4 +11,17 @@
 .success-container {
     flex: 1;
     margin-left: 76px;
+}
+
+@media only screen and (max-width: 480px) {
+    .confirmation-page {
+        padding: 4px;
+        flex-direction: column;
+    }
+
+    .success-container {
+        margin-left: 0;
+        text-align: center;
+        margin-bottom: 16px;
+    }
 }

@@ -29,7 +29,7 @@ const VibeAddress = ({vibe}) => {
                     <Icon icon='mdi:dot' fontSize={24} />
                     <span>{cityFullAddress}</span>
                 </div>
-                <div className='flex gap-12'>
+                <div className='flex gap-12 share'>
                     <div className='flex align-center'><Icon icon='lucide:share' fontSize={24} /> share</div>
                     {isFavorite ?
                         <div className='flex align-center'>

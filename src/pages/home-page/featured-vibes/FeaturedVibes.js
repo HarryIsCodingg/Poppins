@@ -20,7 +20,6 @@ const FeaturedVibes = () => {
             breakpoint: { max: 767, min: 464 },
             items: 1,
             slidesToSlide: 1,
-            partialVisibilityGutter: 50
         }
     };
     return (

@@ -67,3 +67,19 @@
         border-radius: 24px;
     }
 }
+
+@media only screen and (max-width: 480px) {
+    .vibe-listing-page {
+        padding: 4px;
+    }
+
+    .vibe-container {
+        max-height: fit-content;
+        flex-direction: column;
+    }
+
+    .images-wrapper {
+        flex-direction: column;
+        width: 100%;
+    }
+}
