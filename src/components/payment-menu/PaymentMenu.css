@@ -7,3 +7,10 @@
 .confirmation-description {
     padding: 12px;
 }
+
+.confirmation-image {
+    width: 400px;
+    height: 300px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}

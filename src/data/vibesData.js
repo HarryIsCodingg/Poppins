@@ -77,7 +77,7 @@ const vibesData = [
                 ]
             }
         ],
-        confirmation_image: require('../../src/assets/images/vibe/riverside/confirmation_riverside.png'),
+        confirmation_image: require('../../src/assets/images/vibe/corporate/confirmation.jpg'),
     },
     {
         name: 'Wedding',

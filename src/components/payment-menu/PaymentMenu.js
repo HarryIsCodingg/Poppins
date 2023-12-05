@@ -10,6 +10,9 @@ const PaymentMenu = () => {
 
     return (
         <div className='confirmation-container'>
+            <div>
+
+            </div>
             <img src={confirmation_image} alt='confirmation' className='confirmation-image'/>
             <div className='confirmation-description'>
                 <div className='light-text'>Vibe in Montreal</div>
