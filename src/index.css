@@ -24,6 +24,10 @@ body {
   gap: 12px;
 }
 
+.space-between {
+  justify-content: space-between;
+}
+
 .align-center {
   align-items: center;
 }
@@ -35,4 +39,8 @@ body {
 .link-black {
   text-decoration: none;
   color: black;
+}
+
+.light-text {
+  color: #908E8E;
 }

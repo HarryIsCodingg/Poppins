@@ -1,0 +1,9 @@
+.confirmation-container {
+    height: 100%;
+    border: 1px solid gainsboro;
+    border-radius: 12px;
+}
+
+.confirmation-description {
+    padding: 12px;
+}

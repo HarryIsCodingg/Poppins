@@ -2,7 +2,7 @@ import React from "react";
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 import "./UnforgettableActivitiesCarousel.css";
-import vibesData from "../../../modules/vibesData";
+import vibesData from "../../../data/vibesData";
 import VibeCard from "../../../components/shared/vibe-card/VibeCard";
 import {useNavigate} from "react-router-dom";
 import {useDispatch} from "react-redux";

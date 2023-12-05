@@ -1,7 +1,7 @@
 import './FeaturedVibes.css';
 import Carousel from "react-multi-carousel";
 import React from "react";
-import {vibeCategoryData} from "../../../modules/vibeCategoryData";
+import {vibeCategoryData} from "../../../data/vibeCategoryData";
 import VibeCategoryCard from "../../../components/shared/vibe-category-card/VibeCategoryCard";
 
 const FeaturedVibes = () => {

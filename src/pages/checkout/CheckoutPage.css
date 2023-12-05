@@ -1,0 +1,32 @@
+.checkout-page {
+    padding: 56px;
+    gap: 76px;
+}
+
+.edit-button {
+    padding: 16px 24px 16px 24px;
+    background: gainsboro;
+    border-radius: 8px;
+    color: rgba(23, 22, 22, 0.58);
+}
+
+.payment-element {
+    border: 1px solid gainsboro;
+    padding: 0 12px 0 12px;
+    border-radius: 8px;
+}
+
+.payment-element {
+    margin-top: 24px;
+    padding: 8px;
+}
+
+.pay-button {
+    border: none;
+    width: 200px;
+    margin-top: 12px;
+    padding: 16px;
+    border-radius: 12px;
+    color: white;
+    background: linear-gradient(90deg, #8E1EE6 0%, #773098 50%, #7A04D7 100%);
+}
